@@ -1,0 +1,14 @@
+#location {
+	display: none;
+}
+
+body {
+	font-family: Arial;
+	background-color: beige;
+	padding: 100px 100px 100px 100px;
+}
+
+#distanceMessage {
+	padding-left: 50px;
+	font-size: 30px;
+}
